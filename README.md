@@ -1,5 +1,7 @@
 # ProjectAlchemyKeshe
 
+OK
+
 This project intent to create a faithfull keshe atomic carbon surface on a coin, in a simple pot.
 The basic recipe is under.
 Idea have one advance.
